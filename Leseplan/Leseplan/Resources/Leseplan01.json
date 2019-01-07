@@ -1,0 +1,5072 @@
+﻿{
+  "Id": "Glaubenszentrum01",
+  "Text":  "Bibelleseplan in chronologischer Reihenfolge der Entstehung der Bücher",
+  "Original": "https://glaubenszentrum.de/cms/sites/default/files/downloads/bibelleseplan_chronologisch_2.pdf",
+  "Entries": [
+    {
+      "Items": [
+        {
+          "Ref": "1.Mose1"
+        },
+        {
+          "Ref": "1.Mose2"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Mose3"
+        },
+        {
+          "Ref": "1.Mose4"
+        },
+        {
+          "Ref": "1.Mose5"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Mose6"
+        },
+        {
+          "Ref": "1.Mose7"
+        },
+        {
+          "Ref": "1.Mose8"
+        },
+        {
+          "Ref": "1.Mose9"
+        }
+      ]
+    },
+
+    {
+      "Items": [
+        {
+          "Ref": "1.Mose10"
+        },
+        {
+          "Ref": "1.Mose11"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Mose12"
+        },
+        {
+          "Ref": "1.Mose13"
+        },
+        {
+          "Ref": "1.Mose14"
+        },
+        {
+          "Ref": "1.Mose15"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Mose16"
+        },
+        {
+          "Ref": "1.Mose17"
+        },
+        {
+          "Ref": "1.Mose18"
+        },
+        {
+          "Ref": "1.Mose19"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Mose20"
+        },
+        {
+          "Ref": "1.Mose21"
+        },
+        {
+          "Ref": "1.Mose22"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Mose23"
+        },
+        {
+          "Ref": "1.Mose24"
+        },
+        {
+          "Ref": "1.Mose25"
+        },
+        {
+          "Ref": "1.Mose26"
+        }
+      ]
+    },
+
+    {
+      "Items": [
+        {
+          "Ref": "1.Mose27"
+        },
+        {
+          "Ref": "1.Mose28"
+        },
+        {
+          "Ref": "1.Mose29"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Mose30"
+        },
+        {
+          "Ref": "1.Mose31"
+        },
+        {
+          "Ref": "1.Mose32"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Mose33"
+        },
+        {
+          "Ref": "1.Mose34"
+        },
+        {
+          "Ref": "1.Mose35"
+        },
+        {
+          "Ref": "1.Mose36"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Mose37"
+        },
+        {
+          "Ref": "1.Mose38"
+        },
+        {
+          "Ref": "1.Mose39"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Mose40"
+        },
+        {
+          "Ref": "1.Mose41"
+        },
+        {
+          "Ref": "1.Mose42"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Mose43"
+        },
+        {
+          "Ref": "1.Mose44"
+        },
+        {
+          "Ref": "1.Mose45"
+        },
+        {
+          "Ref": "1.Mose46"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Mose47"
+        },
+        {
+          "Ref": "1.Mose48"
+        },
+        {
+          "Ref": "1.Mose49"
+        },
+        {
+          "Ref": "1.Mose50"
+        }
+      ]
+    },
+
+    {
+      "Items": [
+        {
+          "Ref": "Hiob1"
+        },
+        {
+          "Ref": "Hiob2"
+        },
+        {
+          "Ref": "Hiob3"
+        },
+        {
+          "Ref": "Hiob4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hiob5"
+        },
+        {
+          "Ref": "Hiob6"
+        },
+        {
+          "Ref": "Hiob7"
+        }
+      ]
+    },
+
+    {
+      "Items": [
+        {
+          "Ref": "Hiob8"
+        },
+        {
+          "Ref": "Hiob9"
+        },
+        {
+          "Ref": "Hiob10"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hiob11"
+        },
+        {
+          "Ref": "Hiob12"
+        },
+        {
+          "Ref": "Hiob13"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hiob14"
+        },
+        {
+          "Ref": "Hiob15"
+        },
+        {
+          "Ref": "Hiob16"
+        },
+        {
+          "Ref": "Hiob17"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hiob18"
+        },
+        {
+          "Ref": "Hiob19"
+        },
+        {
+          "Ref": "Hiob20"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hiob21"
+        },
+        {
+          "Ref": "Hiob22"
+        },
+        {
+          "Ref": "Hiob23"
+        },
+        {
+          "Ref": "Hiob24"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hiob25"
+        },
+        {
+          "Ref": "Hiob26"
+        },
+        {
+          "Ref": "Hiob27"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hiob28"
+        },
+        {
+          "Ref": "Hiob29"
+        },
+        {
+          "Ref": "Hiob30"
+        },
+        {
+          "Ref": "Hiob31"
+        }
+      ]
+    },
+
+    {
+      "Items": [
+        {
+          "Ref": "Hiob32"
+        },
+        {
+          "Ref": "Hiob33"
+        },
+        {
+          "Ref": "Hiob34"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hiob35"
+        },
+        {
+          "Ref": "Hiob36"
+        },
+        {
+          "Ref": "Hiob37"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hiob38"
+        },
+        {
+          "Ref": "Hiob39"
+        },
+        {
+          "Ref": "Hiob40"
+        },
+        {
+          "Ref": "Hiob41"
+        },
+        {
+          "Ref": "Hiob42"
+        }
+      ]
+    },
+
+    {
+      "Items": [
+        {
+          "Ref": "2.Mose1"
+        },
+        {
+          "Ref": "2.Mose2"
+        },
+        {
+          "Ref": "2.Mose3"
+        },
+        {
+          "Ref": "2.Mose4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Mose5"
+        },
+        {
+          "Ref": "2.Mose6"
+        },
+        {
+          "Ref": "2.Mose7"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Mose8"
+        },
+        {
+          "Ref": "2.Mose9"
+        },
+        {
+          "Ref": "2.Mose10"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Mose11"
+        },
+        {
+          "Ref": "2.Mose12"
+        },
+        {
+          "Ref": "2.Mose13"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Mose14"
+        },
+        {
+          "Ref": "2.Mose15"
+        },
+        {
+          "Ref": "2.Mose16"
+        },
+        {
+          "Ref": "2.Mose17"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Mose18"
+        },
+        {
+          "Ref": "2.Mose19"
+        },
+        {
+          "Ref": "2.Mose20"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Mose21"
+        },
+        {
+          "Ref": "2.Mose22"
+        },
+        {
+          "Ref": "2.Mose23"
+        },
+        {
+          "Ref": "2.Mose24"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Mose25"
+        },
+        {
+          "Ref": "2.Mose26"
+        },
+        {
+          "Ref": "2.Mose27"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Mose28"
+        },
+        {
+          "Ref": "2.Mose29"
+        },
+        {
+          "Ref": "2.Mose30"
+        },
+        {
+          "Ref": "2.Mose31"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Mose32"
+        },
+        {
+          "Ref": "2.Mose33"
+        },
+        {
+          "Ref": "2.Mose34"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Mose35"
+        },
+        {
+          "Ref": "2.Mose36"
+        },
+        {
+          "Ref": "2.Mose37"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Mose38"
+        },
+        {
+          "Ref": "2.Mose39"
+        },
+        {
+          "Ref": "2.Mose40"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "3.Mose1"
+        },
+        {
+          "Ref": "3.Mose2"
+        },
+        {
+          "Ref": "3.Mose3"
+        },
+        {
+          "Ref": "3.Mose4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "3.Mose5"
+        },
+        {
+          "Ref": "3.Mose6"
+        },
+        {
+          "Ref": "3.Mose7"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "3.Mose8"
+        },
+        {
+          "Ref": "3.Mose9"
+        },
+        {
+          "Ref": "3.Mose10"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "3.Mose11"
+        },
+        {
+          "Ref": "3.Mose12"
+        },
+        {
+          "Ref": "3.Mose13"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "3.Mose14"
+        },
+        {
+          "Ref": "3.Mose15"
+        },
+        {
+          "Ref": "3.Mose16"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "3.Mose17"
+        },
+        {
+          "Ref": "3.Mose18"
+        },
+        {
+          "Ref": "3.Mose19"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "3.Mose20"
+        },
+        {
+          "Ref": "3.Mose21"
+        },
+        {
+          "Ref": "3.Mose22"
+        },
+        {
+          "Ref": "Psalm95"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "3.Mose23"
+        },
+        {
+          "Ref": "3.Mose24"
+        },
+        {
+          "Ref": "3.Mose25"
+        },
+        {
+          "Ref": "3.Mose26"
+        },
+        {
+          "Ref": "3.Mose27"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "4.Mose1"
+        },
+        {
+          "Ref": "4.Mose2"
+        },
+        {
+          "Ref": "4.Mose3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "4.Mose4"
+        },
+        {
+          "Ref": "4.Mose5"
+        },
+        {
+          "Ref": "4.Mose6"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "4.Mose7"
+        },
+        {
+          "Ref": "4.Mose8"
+        },
+        {
+          "Ref": "4.Mose9"
+        },
+        {
+          "Ref": "4.Mose10"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "4.Mose11"
+        },
+        {
+          "Ref": "4.Mose16"
+        },
+        {
+          "Ref": "Psalm90"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm91"
+        },
+        {
+          "Ref": "4.Mose12"
+        },
+        {
+          "Ref": "4.Mose13"
+        },
+        {
+          "Ref": "4.Mose14"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "4.Mose15"
+        },
+        {
+          "Ref": "4.Mose17"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "4.Mose18"
+        },
+        {
+          "Ref": "4.Mose19"
+        },
+        {
+          "Ref": "4.Mose20"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "4.Mose21"
+        },
+        {
+          "Ref": "4.Mose22"
+        },
+        {
+          "Ref": "4.Mose23"
+        },
+        {
+          "Ref": "4.Mose24"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "4.Mose25"
+        },
+        {
+          "Ref": "4.Mose26"
+        },
+        {
+          "Ref": "4.Mose27"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "4.Mose28"
+        },
+        {
+          "Ref": "4.Mose29"
+        },
+        {
+          "Ref": "4.Mose30"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "4.Mose31"
+        },
+        {
+          "Ref": "4.Mose32"
+        },
+        {
+          "Ref": "4.Mose33"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "4.Mose34"
+        },
+        {
+          "Ref": "4.Mose35"
+        },
+        {
+          "Ref": "4.Mose36"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "5.Mose1"
+        },
+        {
+          "Ref": "5.Mose2"
+        },
+        {
+          "Ref": "5.Mose3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "5.Mose4"
+        },
+        {
+          "Ref": "5.Mose5"
+        },
+        {
+          "Ref": "5.Mose6"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "5.Mose7"
+        },
+        {
+          "Ref": "5.Mose8"
+        },
+        {
+          "Ref": "5.Mose9"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "5.Mose10"
+        },
+        {
+          "Ref": "5.Mose11"
+        },
+        {
+          "Ref": "5.Mose12"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "5.Mose13"
+        },
+        {
+          "Ref": "5.Mose14"
+        },
+        {
+          "Ref": "5.Mose15"
+        },
+        {
+          "Ref": "5.Mose16"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "5.Mose17"
+        },
+        {
+          "Ref": "5.Mose18"
+        },
+        {
+          "Ref": "5.Mose19"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "5.Mose20"
+        },
+        {
+          "Ref": "5.Mose21"
+        },
+        {
+          "Ref": "5.Mose22"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "5.Mose23"
+        },
+        {
+          "Ref": "5.Mose24"
+        },
+        {
+          "Ref": "5.Mose25"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "5.Mose26"
+        },
+        {
+          "Ref": "5.Mose27"
+        },
+        {
+          "Ref": "5.Mose28"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "5.Mose29"
+        },
+        {
+          "Ref": "5.Mose30"
+        },
+        {
+          "Ref": "5.Mose31"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "5.Mose32"
+        },
+        {
+          "Ref": "5.Mose33"
+        },
+        {
+          "Ref": "5.Mose34"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jos1"
+        },
+        {
+          "Ref": "Jos2"
+        },
+        {
+          "Ref": "Jos3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jos4"
+        },
+        {
+          "Ref": "Jos5"
+        },
+        {
+          "Ref": "Jos6"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jos7"
+        },
+        {
+          "Ref": "Jos8"
+        },
+        {
+          "Ref": "Jos9"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jos10"
+        },
+        {
+          "Ref": "Jos11"
+        },
+        {
+          "Ref": "Jos12"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jos13"
+        },
+        {
+          "Ref": "Jos14"
+        },
+        {
+          "Ref": "Jos15"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jos16"
+        },
+        {
+          "Ref": "Jos17"
+        },
+        {
+          "Ref": "Jos18"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jos19"
+        },
+        {
+          "Ref": "Jos20"
+        },
+        {
+          "Ref": "Jos21"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jos22"
+        },
+        {
+          "Ref": "Jos23"
+        },
+        {
+          "Ref": "Jos24"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Richter1"
+        },
+        {
+          "Ref": "Richter2"
+        },
+        {
+          "Ref": "Richter3"
+        },
+        {
+          "Ref": "Richter4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Richter5"
+        },
+        {
+          "Ref": "Richter6"
+        },
+        {
+          "Ref": "Richter7"
+        },
+        {
+          "Ref": "Richter8"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Richter9"
+        },
+        {
+          "Ref": "Richter10"
+        },
+        {
+          "Ref": "Richter11"
+        },
+        {
+          "Ref": "Richter12"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Richter13"
+        },
+        {
+          "Ref": "Richter14"
+        },
+        {
+          "Ref": "Richter15"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Richter16"
+        },
+        {
+          "Ref": "Richter17"
+        },
+        {
+          "Ref": "Richter18"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Richter19"
+        },
+        {
+          "Ref": "Richter20"
+        },
+        {
+          "Ref": "Richter21"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Rut1"
+        },
+        {
+          "Ref": "Rut2"
+        },
+        {
+          "Ref": "Rut3"
+        },
+        {
+          "Ref": "Rut4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Samuel1"
+        },
+        {
+          "Ref": "1.Samuel2"
+        },
+        {
+          "Ref": "1.Samuel3"
+        },
+        {
+          "Ref": "1.Samuel4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Samuel5"
+        },
+        {
+          "Ref": "1.Samuel6"
+        },
+        {
+          "Ref": "1.Samuel7"
+        },
+        {
+          "Ref": "1.Samuel8"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Samuel9"
+        },
+        {
+          "Ref": "1.Samuel10"
+        },
+        {
+          "Ref": "1.Samuel11"
+        },
+        {
+          "Ref": "1.Samuel12"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Samuel13"
+        },
+        {
+          "Ref": "1.Samuel14"
+        },
+        {
+          "Ref": "1.Samuel15"
+        },
+        {
+          "Ref": "1.Samuel16"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Samuel17"
+        },
+        {
+          "Ref": "1.Samuel18"
+        },
+        {
+          "Ref": "Psalm23"
+        }
+      ]
+    },
+
+    {
+      "Items": [
+        {
+          "Ref": "1.Samuel19,1-18"
+        },
+        {
+          "Ref": "Psalm11"
+        },
+        {
+          "Ref": "Psalm59"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Samuel19,19-24"
+        },
+        {
+          "Ref": "1.Samuel20"
+        },
+        {
+          "Ref": "1.Samuel21"
+        },
+        {
+          "Ref": "Psalm56,142"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Samuel22"
+        },
+        {
+          "Ref": "Psalm17"
+        },
+        {
+          "Ref": "Psalm34"
+        },
+        {
+          "Ref": "Psalm35"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm52"
+        },
+        {
+          "Ref": "Psalm109"
+        },
+        {
+          "Ref": "Psalm140"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm31"
+        },
+        {
+          "Ref": "Psalm64"
+        },
+        {
+          "Ref": "1.Samuel23"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm54"
+        },
+        {
+          "Ref": "Psalm22"
+        },
+        {
+          "Ref": "1.Samuel24"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm63"
+        },
+        {
+          "Ref": "Psalm12"
+        },
+        {
+          "Ref": "Psalm57"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm58"
+        },
+        {
+          "Ref": "Psalm120"
+        },
+        {
+          "Ref": "1.Samuel25"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm141"
+        },
+        {
+          "Ref": "1.Samuel26"
+        },
+        {
+          "Ref": "1.Samuel27"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Samuel28"
+        },
+        {
+          "Ref": "1.Samuel29"
+        },
+        {
+          "Ref": "1.Samuel30"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Samuel31"
+        },
+        {
+          "Ref": "2.Samuel1"
+        },
+        {
+          "Ref": "2.Samuel2"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm101"
+        },
+        {
+          "Ref": "2.Samuel3"
+        },
+        {
+          "Ref": "2.Samuel4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Samuel5"
+        },
+        {
+          "Ref": "Psalm139"
+        },
+        {
+          "Ref": "2.Samuel6"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm78"
+        },
+        {
+          "Ref": "Psalm96"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm15"
+        },
+        {
+          "Ref": "Psalm24"
+        },
+        {
+          "Ref": "Psalm68"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm132"
+        },
+        {
+          "Ref": "Psalm133"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm106"
+        },
+        {
+          "Ref": "Psalm105"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Samuel7"
+        },
+        {
+          "Ref": "Psalm16"
+        },
+        {
+          "Ref": "Psalm2"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm110"
+        },
+        {
+          "Ref": "2.Samuel8"
+        },
+        {
+          "Ref": "Psalm97"
+        },
+        {
+          "Ref": "Psalm98"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm108"
+        },
+        {
+          "Ref": "Psalm117"
+        },
+        {
+          "Ref": "Psalm118"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm60"
+        },
+        {
+          "Ref": "Psalm9"
+        },
+        {
+          "Ref": "Psalm20"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Samuel9"
+        },
+        {
+          "Ref": "2.Samuel10"
+        },
+        {
+          "Ref": "2.Samuel11"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Samuel12"
+        },
+        {
+          "Ref": "Psalm6"
+        },
+        {
+          "Ref": "Psalm32"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm33"
+        },
+        {
+          "Ref": "Psalm38"
+        },
+        {
+          "Ref": "Psalm39"
+        },
+        {
+          "Ref": "Psalm21"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm40"
+        },
+        {
+          "Ref": "Psalm41"
+        },
+        {
+          "Ref": "Psalm51"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm103"
+        },
+        {
+          "Ref": "Psalm104"
+        },
+        {
+          "Ref": "2.Samuel13"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm55"
+        },
+        {
+          "Ref": "2.Samuel14"
+        },
+        {
+          "Ref": "2.Samuel15"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Samuel16"
+        },
+        {
+          "Ref": "Psalm7"
+        },
+        {
+          "Ref": "2.Samuel17"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm3"
+        },
+        {
+          "Ref": "Psalm4"
+        },
+        {
+          "Ref": "Psalm42"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm43"
+        },
+        {
+          "Ref": "Psalm5"
+        },
+        {
+          "Ref": "Psalm8"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm28"
+        },
+        {
+          "Ref": "Psalm61"
+        },
+        {
+          "Ref": "Psalm62"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm69"
+        },
+        {
+          "Ref": "Psalm70"
+        },
+        {
+          "Ref": "Psalm71"
+        },
+        {
+          "Ref": "Psalm86"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm143"
+        },
+        {
+          "Ref": "2.Samuel18"
+        },
+        {
+          "Ref": "2.Samuel19"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm122"
+        },
+        {
+          "Ref": "Psalm26"
+        },
+        {
+          "Ref": "Psalm27"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm141"
+        },
+        {
+          "Ref": "Psalm65"
+        },
+        {
+          "Ref": "2.Samuel20"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Samuel21"
+        },
+        {
+          "Ref": "Psalm29"
+        },
+        {
+          "Ref": "Psalm30"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm131"
+        },
+        {
+          "Ref": "Psalm18"
+        },
+        {
+          "Ref": "2.Samuel22"
+        },
+        {
+          "Ref": "2.Samuel23"
+        },
+        {
+          "Ref": "2.Samuel24"
+        },
+        {
+          "Ref": "1.Könige1"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm72"
+        },
+        {
+          "Ref": "Psalm145"
+        },
+        {
+          "Ref": "1.Könige2"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Könige3"
+        },
+        {
+          "Ref": "1.Könige4"
+        },
+        {
+          "Ref": "1.Könige5"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm99"
+        },
+        {
+          "Ref": "Psalm100"
+        },
+        {
+          "Ref": "Psalm127"
+        },
+        {
+          "Ref": "Psalm128"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Sprüche1"
+        },
+        {
+          "Ref": "Sprüche2"
+        },
+        {
+          "Ref": "Sprüche3"
+        },
+        {
+          "Ref": "Sprüche4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Sprüche5"
+        },
+        {
+          "Ref": "Sprüche6"
+        },
+        {
+          "Ref": "Sprüche7"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Sprüche8"
+        },
+        {
+          "Ref": "Sprüche9"
+        },
+        {
+          "Ref": "Sprüche10"
+        },
+        {
+          "Ref": "Sprüche11"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Sprüche12"
+        },
+        {
+          "Ref": "Sprüche13"
+        },
+        {
+          "Ref": "Sprüche14"
+        },
+        {
+          "Ref": "Sprüche15"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Sprüche16"
+        },
+        {
+          "Ref": "Sprüche17"
+        },
+        {
+          "Ref": "Sprüche18"
+        },
+        {
+          "Ref": "Sprüche19"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Sprüche20"
+        },
+        {
+          "Ref": "Sprüche21"
+        },
+        {
+          "Ref": "Sprüche22"
+        },
+        {
+          "Ref": "Sprüche23"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Sprüche24"
+        },
+        {
+          "Ref": "Sprüche25"
+        },
+        {
+          "Ref": "Sprüche26"
+        },
+        {
+          "Ref": "Sprüche27"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Sprüche28"
+        },
+        {
+          "Ref": "Sprüche29"
+        },
+        {
+          "Ref": "Sprüche30"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Sprüche31"
+        },
+        {
+          "Ref": "Prediger1"
+        },
+        {
+          "Ref": "Prediger2"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Prediger3"
+        },
+        {
+          "Ref": "Prediger4"
+        },
+        {
+          "Ref": "Prediger5"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Prediger6"
+        },
+        {
+          "Ref": "Prediger7"
+        },
+        {
+          "Ref": "Prediger8"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Prediger9"
+        },
+        {
+          "Ref": "Prediger10"
+        },
+        {
+          "Ref": "Prediger11"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Prediger12"
+        },
+        {
+          "Ref": "Hiob1"
+        },
+        {
+          "Ref": "Hiob2"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hiob3"
+        },
+        {
+          "Ref": "Hiob4"
+        },
+        {
+          "Ref": "Hion5"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hiob6"
+        },
+        {
+          "Ref": "Hiob7"
+        },
+        {
+          "Ref": "Hiob8"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Könige6"
+        },
+        {
+          "Ref": "1.Könige7"
+        },
+        {
+          "Ref": "1.Könige8"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Könige9"
+        },
+        {
+          "Ref": "1.Könige10"
+        },
+        {
+          "Ref": "1.Könige11"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Könige12"
+        },
+        {
+          "Ref": "1.Könige13"
+        },
+        {
+          "Ref": "1.Könige14"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Könige15"
+        },
+        {
+          "Ref": "1.Könige16"
+        },
+        {
+          "Ref": "1.Könige17"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Könige18"
+        },
+        {
+          "Ref": "1.Könige19"
+        },
+        {
+          "Ref": "1.Könige20"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Könige21"
+        },
+        {
+          "Ref": "1.Könige22"
+        },
+        {
+          "Ref": "2.Könige1"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Könige2"
+        },
+        {
+          "Ref": "2.Könige3"
+        },
+        {
+          "Ref": "2.Könige4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Könige5"
+        },
+        {
+          "Ref": "2.Könige6"
+        },
+        {
+          "Ref": "2.Könige7"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Könige8"
+        },
+        {
+          "Ref": "2.Könige9"
+        },
+        {
+          "Ref": "2.Könige10"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Könige11"
+        },
+        {
+          "Ref": "2.Könige12"
+        },
+        {
+          "Ref": "2.Könige13"
+        },
+        {
+          "Ref": "2.Könige14,1-20"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Joel1"
+        },
+        {
+          "Ref": "Joel2"
+        },
+        {
+          "Ref": "Joel3"
+        },
+        {
+          "Ref": "Joel4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Könige14,21-25"
+        },
+        {
+          "Ref": "Jona1"
+        },
+        {
+          "Ref": "Jona2"
+        },
+        {
+          "Ref": "Jona3"
+        },
+        {
+          "Ref": "Jona4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Könige14,26-29"
+        },
+        {
+          "Ref": "Amos1"
+        },
+        {
+          "Ref": "Amos2"
+        },
+        {
+          "Ref": "Amso3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Amos4"
+        },
+        {
+          "Ref": "Amos5"
+        },
+        {
+          "Ref": "Amos6"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Amos7"
+        },
+        {
+          "Ref": "Amos8"
+        },
+        {
+          "Ref": "Amos9"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Könige15"
+        },
+        {
+          "Ref": "2.Könige16"
+        },
+        {
+          "Ref": "2.Könige17"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hosea1"
+        },
+        {
+          "Ref": "Hosea2"
+        },
+        {
+          "Ref": "Hosea3"
+        },
+        {
+          "Ref": "Hosea4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hosea5"
+        },
+        {
+          "Ref": "Hosea6"
+        },
+        {
+          "Ref": "Hosea7"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hosea8"
+        },
+        {
+          "Ref": "Hosea9"
+        },
+        {
+          "Ref": "Hosea10"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hosea11"
+        },
+        {
+          "Ref": "Hosea12"
+        },
+        {
+          "Ref": "Hosea13"
+        },
+        {
+          "Ref": "Hosea14"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Könige18"
+        },
+        {
+          "Ref": "Psalm44"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Könige19,1-34"
+        },
+        {
+          "Ref": "Psalm73"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Könige19,35-37"
+        },
+        {
+          "Ref": "Psalm92"
+        },
+        {
+          "Ref": "Psalm93"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm46"
+        },
+        {
+          "Ref": "Psalm75"
+        },
+        {
+          "Ref": "Psalm76"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jesaja1"
+        },
+        {
+          "Ref": "Jesaja2"
+        },
+        {
+          "Ref": "Jesaja3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jesaja4"
+        },
+        {
+          "Ref": "Jesaja5"
+        },
+        {
+          "Ref": "Jesaja6"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jesaja7"
+        },
+        {
+          "Ref": "Jesaja8"
+        },
+        {
+          "Ref": "Jesaja9"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jesaja10"
+        },
+        {
+          "Ref": "Jesaja11"
+        },
+        {
+          "Ref": "Jesaja12"
+        },
+        {
+          "Ref": "Jesaja13"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jesaja14"
+        },
+        {
+          "Ref": "Jesaja15"
+        },
+        {
+          "Ref": "Jesaja16"
+        },
+        {
+          "Ref": "Jesaja17"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jesaja18"
+        },
+        {
+          "Ref": "Jesaja19"
+        },
+        {
+          "Ref": "Jesaja20"
+        },
+        {
+          "Ref": "Jesaja21"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jesaja22"
+        },
+        {
+          "Ref": "Jesaja23"
+        },
+        {
+          "Ref": "Jesaja24"
+        },
+        {
+          "Ref": "Jesaja25"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jesaja26"
+        },
+        {
+          "Ref": "Jesaja27"
+        },
+        {
+          "Ref": "Jesaja28"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jesaja29"
+        },
+        {
+          "Ref": "Jesaja30"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jesaja31"
+        },
+        {
+          "Ref": "Jesaja32"
+        },
+        {
+          "Ref": "Jesaja33"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jesaja34"
+        },
+        {
+          "Ref": "Jesaja35"
+        },
+        {
+          "Ref": "Jesaja36"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jesaja37"
+        },
+        {
+          "Ref": "Jesaja38"
+        },
+        {
+          "Ref": "Jesaja39"
+        }
+      ]
+    },
+
+    {
+      "Items": [
+        {
+          "Ref": "Jesaja40"
+        },
+        {
+          "Ref": "Jesaja41"
+        },
+        {
+          "Ref": "Jesaja42"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jesaja43"
+        },
+        {
+          "Ref": "Jesaja44"
+        },
+        {
+          "Ref": "Jesaja45"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jesaja46"
+        },
+        {
+          "Ref": "Jesaja47"
+        },
+        {
+          "Ref": "Jesaja48"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jesaja49"
+        },
+        {
+          "Ref": "Jesaja50"
+        },
+        {
+          "Ref": "Jesaja51"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jesaja52"
+        },
+        {
+          "Ref": "Jesaja53"
+        },
+        {
+          "Ref": "Jesaja54"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jesaja55"
+        },
+        {
+          "Ref": "Jesaja56"
+        },
+        {
+          "Ref": "Jesaja57"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jesaja58"
+        },
+        {
+          "Ref": "Jesaja59"
+        },
+        {
+          "Ref": "Jesaja60"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jesaja61"
+        },
+        {
+          "Ref": "Jesaja62"
+        },
+        {
+          "Ref": "Jesaja63"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jesaja64"
+        },
+        {
+          "Ref": "Jesaja65"
+        },
+        {
+          "Ref": "Jesaja66"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Micha1"
+        },
+        {
+          "Ref": "Micha2"
+        },
+        {
+          "Ref": "Micha3"
+        },
+        {
+          "Ref": "Micha4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Micha5"
+        },
+        {
+          "Ref": "Micha6"
+        },
+        {
+          "Ref": "Micha7"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Nahum1"
+        },
+        {
+          "Ref": "Nahum2"
+        },
+        {
+          "Ref": "Nahum3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Könige20"
+        },
+        {
+          "Ref": "2.Könige21"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Zefania1"
+        },
+        {
+          "Ref": "Zefania2"
+        },
+        {
+          "Ref": "Zefania3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Habakuk1"
+        },
+        {
+          "Ref": "Habakuk2"
+        },
+        {
+          "Ref": "Habakuk3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Könige22"
+        },
+        {
+          "Ref": "2.Könige23"
+        },
+        {
+          "Ref": "Psalm74"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm79"
+        },
+        {
+          "Ref": "Psalm94"
+        },
+        {
+          "Ref": "2.Könige24,1-16"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm88"
+        },
+        {
+          "Ref": "2.Könige24,17-20"
+        },
+        {
+          "Ref": "2.Könige25"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Obadja"
+        },
+        {
+          "Ref": "Jeremia1"
+        },
+        {
+          "Ref": "Jeremia2"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jeremia3"
+        },
+        {
+          "Ref": "Jeremia4"
+        },
+        {
+          "Ref": "Jeremia5"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jeremia6"
+        },
+        {
+          "Ref": "Jeremia7"
+        },
+        {
+          "Ref": "Jeremia8"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jeremia9"
+        },
+        {
+          "Ref": "Jeremia10"
+        },
+        {
+          "Ref": "Jeremia11"
+        },
+        {
+          "Ref": "Jeremia12"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jeremia13"
+        },
+        {
+          "Ref": "Psalm13"
+        },
+        {
+          "Ref": "Psalm14"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm36"
+        },
+        {
+          "Ref": "Psalm37"
+        },
+        {
+          "Ref": "Psalm49"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm53"
+        },
+        {
+          "Ref": "Psalm77"
+        },
+        {
+          "Ref": "Psalm89"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm123"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm25"
+        },
+        {
+          "Ref": "Psalm50"
+        },
+        {
+          "Ref": "Psalm67"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm102"
+        },
+        {
+          "Ref": "Psalm130"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jeremia14"
+        },
+        {
+          "Ref": "Jeremia15"
+        },
+        {
+          "Ref": "Jeremia16"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jeremia17"
+        },
+        {
+          "Ref": "Jeremia18"
+        },
+        {
+          "Ref": "Jeremia19"
+        },
+        {
+          "Ref": "Jeremia20"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jeremia21"
+        },
+        {
+          "Ref": "Jeremia22"
+        },
+        {
+          "Ref": "Jeremia23"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jeremia24"
+        },
+        {
+          "Ref": "Jeremia25"
+        },
+        {
+          "Ref": "Jeremia26"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jeremia27"
+        },
+        {
+          "Ref": "Jeremia28"
+        },
+        {
+          "Ref": "Jeremia29"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jeremia30"
+        },
+        {
+          "Ref": "Jeremia31"
+        },
+        {
+          "Ref": "Jeremia32"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jeremia33"
+        },
+        {
+          "Ref": "Jeremia34"
+        },
+        {
+          "Ref": "Jeremia35"
+        },
+        {
+          "Ref": "Jeremia36"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jeremia37"
+        },
+        {
+          "Ref": "Jeremia38"
+        },
+        {
+          "Ref": "Jeremia39"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jeremia40"
+        },
+        {
+          "Ref": "Jeremia41"
+        },
+        {
+          "Ref": "Jeremia42"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jeremia43"
+        },
+        {
+          "Ref": "Jeremia44"
+        },
+        {
+          "Ref": "Jeremia45"
+        },
+        {
+          "Ref": "Jeremia46"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jeremia47"
+        },
+        {
+          "Ref": "Jeremia48"
+        },
+        {
+          "Ref": "Jeremia49"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jeremia50"
+        },
+        {
+          "Ref": "Jeremia51"
+        },
+        {
+          "Ref": "Jeremia52"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Klagelieder1"
+        },
+        {
+          "Ref": "Klagelieder2"
+        },
+        {
+          "Ref": "Klagelieder3"
+        },
+        {
+          "Ref": "Klagelieder4"
+        },
+        {
+          "Ref": "Klagelieder5"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Chronik1"
+        },
+        {
+          "Ref": "1.Chronik2"
+        },
+        {
+          "Ref": "1.Chronik3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Chronik4"
+        },
+        {
+          "Ref": "1.Chronik5"
+        },
+        {
+          "Ref": "1.Chronik6"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Chronik7"
+        },
+        {
+          "Ref": "1.Chronik8"
+        },
+        {
+          "Ref": "1.Chronik9"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Chronik10"
+        },
+        {
+          "Ref": "1.Chronik11"
+        },
+        {
+          "Ref": "1.Chronik12"
+        },
+        {
+          "Ref": "1.Chronik13"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Chronik14"
+        },
+        {
+          "Ref": "1.Chronik15"
+        },
+        {
+          "Ref": "1.Chronik16"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Chronik17"
+        },
+        {
+          "Ref": "1.Chronik18"
+        },
+        {
+          "Ref": "1.Chronik19"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Chronik20"
+        },
+        {
+          "Ref": "1.Chronik21"
+        },
+        {
+          "Ref": "1.Chronik22"
+        },
+        {
+          "Ref": "1.Chronik23"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Chronik24"
+        },
+        {
+          "Ref": "1.Chronik25"
+        },
+        {
+          "Ref": "1.Chronik26"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Chronik27"
+        },
+        {
+          "Ref": "1.Chronik28"
+        },
+        {
+          "Ref": "1.Chronik29"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Chronik1"
+        },
+        {
+          "Ref": "2.Chronik2"
+        },
+        {
+          "Ref": "2.Chronik3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Chronik4"
+        },
+        {
+          "Ref": "2.Chronik5"
+        },
+        {
+          "Ref": "2.Chronik6"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Chronik7"
+        },
+        {
+          "Ref": "2.Chronik8"
+        },
+        {
+          "Ref": "2.Chronik9"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Chronik10"
+        },
+        {
+          "Ref": "2.Chronik11"
+        },
+        {
+          "Ref": "2.Chronik12"
+        },
+        {
+          "Ref": "2.Chronik13"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Chronik14"
+        },
+        {
+          "Ref": "2.Chronik15"
+        },
+        {
+          "Ref": "2.Chronik16"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Chronik17"
+        },
+        {
+          "Ref": "2.Chronik18"
+        },
+        {
+          "Ref": "2.Chronik19"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm82"
+        },
+        {
+          "Ref": "2.Chronik20"
+        },
+        {
+          "Ref": "Psalm83"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm47"
+        },
+        {
+          "Ref": "Psalm48"
+        },
+        {
+          "Ref": "Psalm115"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Chronik21"
+        },
+        {
+          "Ref": "2.Chronik22"
+        },
+        {
+          "Ref": "2.Chronik23"
+        },
+        {
+          "Ref": "2.Chronik24"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Chronik25"
+        },
+        {
+          "Ref": "2.Chronik26"
+        },
+        {
+          "Ref": "2.Chronik27"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Chronik28"
+        },
+        {
+          "Ref": "2.Chronik29"
+        },
+        {
+          "Ref": "Psalm80"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Chronik30"
+        },
+        {
+          "Ref": "2.Chronik31"
+        },
+        {
+          "Ref": "2.Chronik32"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Chronik33"
+        },
+        {
+          "Ref": "2.Chronik34"
+        },
+        {
+          "Ref": "2.Chronik35"
+        },
+        {
+          "Ref": "2.Chronik36"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hesekiel1"
+        },
+        {
+          "Ref": "Hesekiel2"
+        },
+        {
+          "Ref": "Hesekiel3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hesekiel4"
+        },
+        {
+          "Ref": "Hesekiel5"
+        },
+        {
+          "Ref": "Hesekiel6"
+        },
+        {
+          "Ref": "Hesekiel7"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hesekiel8"
+        },
+        {
+          "Ref": "Hesekiel9"
+        },
+        {
+          "Ref": "Hesekiel10"
+        },
+        {
+          "Ref": "Hesekiel11"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hesekiel12"
+        },
+        {
+          "Ref": "Hesekiel13"
+        },
+        {
+          "Ref": "Hesekiel14"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hesekiel15"
+        },
+        {
+          "Ref": "Hesekiel16"
+        },
+        {
+          "Ref": "Hesekiel17"
+        },
+        {
+          "Ref": "Hesekiel18"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hesekiel19"
+        },
+        {
+          "Ref": "Hesekiel20"
+        },
+        {
+          "Ref": "Hesekiel21"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hesekiel22"
+        },
+        {
+          "Ref": "Hesekiel23"
+        },
+        {
+          "Ref": "Hesekiel24"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hesekiel25"
+        },
+        {
+          "Ref": "Hesekiel26"
+        },
+        {
+          "Ref": "Hesekiel27"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hesekiel28"
+        },
+        {
+          "Ref": "Hesekiel29"
+        },
+        {
+          "Ref": "Hesekiel30"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hesekiel31"
+        },
+        {
+          "Ref": "Hesekiel32"
+        },
+        {
+          "Ref": "Hesekiel33"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hesekiel34"
+        },
+        {
+          "Ref": "Hesekiel35"
+        },
+        {
+          "Ref": "Hesekiel36"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hesekiel37"
+        },
+        {
+          "Ref": "Hesekiel38"
+        },
+        {
+          "Ref": "Hesekiel39"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hesekiel40"
+        },
+        {
+          "Ref": "Hesekiel41"
+        },
+        {
+          "Ref": "Hesekiel42"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hesekiel43"
+        },
+        {
+          "Ref": "Hesekiel44"
+        },
+        {
+          "Ref": "Hesekiel45"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hesekiel46"
+        },
+        {
+          "Ref": "Hesekiel47"
+        },
+        {
+          "Ref": "Hesekiel48"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Daniel1"
+        },
+        {
+          "Ref": "Daniel2"
+        },
+        {
+          "Ref": "Daniel3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Daniel4"
+        },
+        {
+          "Ref": "Daniel5"
+        },
+        {
+          "Ref": "Daniel6"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Daniel7"
+        },
+        {
+          "Ref": "Daniel8"
+        },
+        {
+          "Ref": "Daniel9"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Daniel10"
+        },
+        {
+          "Ref": "Daniel11"
+        },
+        {
+          "Ref": "Daniel12"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Esra1"
+        },
+        {
+          "Ref": "Psalm85"
+        },
+        {
+          "Ref": "Psalm126"
+        },
+        {
+          "Ref": "Psalm137"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Esra2"
+        },
+        {
+          "Ref": "Psalm1"
+        },
+        {
+          "Ref": "Psalm121"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm119"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Esra3,1-7"
+        },
+        {
+          "Ref": "Psalm107"
+        },
+        {
+          "Ref": "Psalm111"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm112"
+        },
+        {
+          "Ref": "Psalm113"
+        },
+        {
+          "Ref": "Psalm114"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Esra3,8-13"
+        },
+        {
+          "Ref": "Psalm66"
+        },
+        {
+          "Ref": "Psalm84"
+        },
+        {
+          "Ref": "Psalm116"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm125"
+        },
+        {
+          "Ref": "Psalm129"
+        },
+        {
+          "Ref": "Esra4"
+        },
+        {
+          "Ref": "Haggai1"
+        },
+        {
+          "Ref": "Haggai2"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Sacharja1"
+        },
+        {
+          "Ref": "Sacharja2"
+        },
+        {
+          "Ref": "Sacharja3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Sacharja4"
+        },
+        {
+          "Ref": "Sacharja5"
+        },
+        {
+          "Ref": "Sacharja6"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Sacharja7"
+        },
+        {
+          "Ref": "Sacharja8"
+        },
+        {
+          "Ref": "Sacharja9"
+        },
+        {
+          "Ref": "Sacharja10"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Sacharja11"
+        },
+        {
+          "Ref": "Sacharja12"
+        },
+        {
+          "Ref": "Sacharja13"
+        },
+        {
+          "Ref": "Sacharja14"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Esra5"
+        },
+        {
+          "Ref": "Esra6,1-15"
+        },
+        {
+          "Ref": "Psalm138"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Esra6,16-22"
+        },
+        {
+          "Ref": "Psalm81"
+        },
+        {
+          "Ref": "Psalm134"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm135"
+        },
+        {
+          "Ref": "Psalm136"
+        },
+        {
+          "Ref": "Psalm146"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm87"
+        },
+        {
+          "Ref": "Esra7"
+        },
+        {
+          "Ref": "Esra8"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Esra9"
+        },
+        {
+          "Ref": "Esra10"
+        },
+        {
+          "Ref": "Esther1"
+        },
+        {
+          "Ref": "Esther2"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm10"
+        },
+        {
+          "Ref": "Psalm45"
+        },
+        {
+          "Ref": "Esther3"
+        },
+        {
+          "Ref": "Esther4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Esther5"
+        },
+        {
+          "Ref": "Esther6"
+        },
+        {
+          "Ref": "Esther7"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Esther8"
+        },
+        {
+          "Ref": "Esther9"
+        },
+        {
+          "Ref": "Esther10"
+        },
+        {
+          "Ref": "Psalm124"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Nehemia1"
+        },
+        {
+          "Ref": "Nehemia2"
+        },
+        {
+          "Ref": "Nehemia3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm147"
+        },
+        {
+          "Ref": "Psalm148"
+        },
+        {
+          "Ref": "Psalm149"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Nehemia4"
+        },
+        {
+          "Ref": "Nehemia5"
+        },
+        {
+          "Ref": "Nehemia6"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Psalm150"
+        },
+        {
+          "Ref": "Psalm19"
+        },
+        {
+          "Ref": "Nehemia7"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Nehemia8"
+        },
+        {
+          "Ref": "Nehemia9"
+        },
+        {
+          "Ref": "Nehemia10"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Nehemia11"
+        },
+        {
+          "Ref": "Nehemia12"
+        },
+        {
+          "Ref": "Nehemia13"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Maleachi1"
+        },
+        {
+          "Ref": "Maleachi2"
+        },
+        {
+          "Ref": "Maleachi3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Matthäus1"
+        },
+        {
+          "Ref": "Matthäus2"
+        },
+        {
+          "Ref": "Matthäus3"
+        },
+        {
+          "Ref": "Matthäus4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Matthäus5"
+        },
+        {
+          "Ref": "Matthäus6"
+        },
+        {
+          "Ref": "Matthäus7"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Matthäus8"
+        },
+        {
+          "Ref": "Matthäus9"
+        },
+        {
+          "Ref": "Matthäus10"
+        },
+        {
+          "Ref": "Matthäus11"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Matthäus12"
+        },
+        {
+          "Ref": "Matthäus13"
+        },
+        {
+          "Ref": "Matthäus14"
+        },
+        {
+          "Ref": "Matthäus15"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Matthäus16"
+        },
+        {
+          "Ref": "Matthäus17"
+        },
+        {
+          "Ref": "Matthäus18"
+        },
+        {
+          "Ref": "Matthäus19"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Matthäus20"
+        },
+        {
+          "Ref": "Matthäus21"
+        },
+        {
+          "Ref": "Matthäus22"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Matthäus23"
+        },
+        {
+          "Ref": "Matthäus24"
+        },
+        {
+          "Ref": "Matthäus25"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Matthäus26"
+        },
+        {
+          "Ref": "Matthäus27"
+        },
+        {
+          "Ref": "Matthäus28"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Markus1"
+        },
+        {
+          "Ref": "Markus2"
+        },
+        {
+          "Ref": "Markus3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Markus4"
+        },
+        {
+          "Ref": "Markus5"
+        },
+        {
+          "Ref": "Markus6"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Markus7"
+        },
+        {
+          "Ref": "Markus8"
+        },
+        {
+          "Ref": "Markus9"
+        },
+        {
+          "Ref": "Markus10"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Markus11"
+        },
+        {
+          "Ref": "Markus12"
+        },
+        {
+          "Ref": "Markus13"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Markus14"
+        },
+        {
+          "Ref": "Markus15"
+        },
+        {
+          "Ref": "Markus16"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Lukas1"
+        },
+        {
+          "Ref": "Lukas2"
+        },
+        {
+          "Ref": "Lukas3"
+        },
+        {
+          "Ref": "Lukas4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Lukas5"
+        },
+        {
+          "Ref": "Lukas6"
+        },
+        {
+          "Ref": "Lukas7"
+        },
+        {
+          "Ref": "Lukas8"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Lukas9"
+        },
+        {
+          "Ref": "Lukas10"
+        },
+        {
+          "Ref": "Lukas11"
+        },
+        {
+          "Ref": "Lukas12"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Lukas13"
+        },
+        {
+          "Ref": "Lukas14"
+        },
+        {
+          "Ref": "Lukas15"
+        },
+        {
+          "Ref": "Lukas16"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Lukas17"
+        },
+        {
+          "Ref": "Lukas18"
+        },
+        {
+          "Ref": "Lukas19"
+        },
+        {
+          "Ref": "Lukas20"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Lukas21"
+        },
+        {
+          "Ref": "Lukas22"
+        },
+        {
+          "Ref": "Lukas23"
+        },
+        {
+          "Ref": "Lukas24"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Johannes1"
+        },
+        {
+          "Ref": "Johannes2"
+        },
+        {
+          "Ref": "Johannes3"
+        },
+        {
+          "Ref": "Johannes4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Johannes5"
+        },
+        {
+          "Ref": "Johannes6"
+        },
+        {
+          "Ref": "Johannes7"
+        },
+        {
+          "Ref": "Johannes8"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Johannes9"
+        },
+        {
+          "Ref": "Johannes10"
+        },
+        {
+          "Ref": "Johannes11"
+        },
+        {
+          "Ref": "Johannes12"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Johannes13"
+        },
+        {
+          "Ref": "Johannes14"
+        },
+        {
+          "Ref": "Johannes15"
+        },
+        {
+          "Ref": "Johannes16"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Johannes17"
+        },
+        {
+          "Ref": "Johannes18"
+        },
+        {
+          "Ref": "Johannes19"
+        },
+        {
+          "Ref": "Johannes20"
+        },
+        {
+          "Ref": "Johannes21"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Apostelgeschichte1"
+        },
+        {
+          "Ref": "Apostelgeschichte2"
+        },
+        {
+          "Ref": "Apostelgeschichte3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Apostelgeschichte4"
+        },
+        {
+          "Ref": "Apostelgeschichte5"
+        },
+        {
+          "Ref": "Apostelgeschichte6"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Apostelgeschichte7"
+        },
+        {
+          "Ref": "Apostelgeschichte8"
+        },
+        {
+          "Ref": "Apostelgeschichte9"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Apostelgeschichte10"
+        },
+        {
+          "Ref": "Apostelgeschichte11"
+        },
+        {
+          "Ref": "Apostelgeschichte12"
+        },
+        {
+          "Ref": "Apostelgeschichte13"
+        },
+        {
+          "Ref": "Apostelgeschichte14"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jakobus1"
+        },
+        {
+          "Ref": "Jakobus2"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Jakobus3"
+        },
+        {
+          "Ref": "Jakobus4"
+        },
+        {
+          "Ref": "Jakobus5"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Galater1"
+        },
+        {
+          "Ref": "Galater2"
+        },
+        {
+          "Ref": "Galater3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Galater4"
+        },
+        {
+          "Ref": "Galater5"
+        },
+        {
+          "Ref": "Galater6"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Apostelgeschichte15"
+        },
+        {
+          "Ref": "Apostelgeschichte16"
+        },
+        {
+          "Ref": "Apostelgeschichte17"
+        },
+        {
+          "Ref": "Apostelgeschichte18,1-11"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Thessalonicher1"
+        },
+        {
+          "Ref": "1.Thessalonicher2"
+        },
+        {
+          "Ref": "1.Thessalonicher3"
+        },
+        {
+          "Ref": "1.Thessalonicher4"
+        },
+        {
+          "Ref": "1.Thessalonicher5"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Thessalonicher1"
+        },
+        {
+          "Ref": "2.Thessalonicher2"
+        },
+        {
+          "Ref": "2.Thessalonicher3"
+        },
+        {
+          "Ref": "Apostelgeschichte18,12-28"
+        },
+        {
+          "Ref": "Apostelgeschichte19,1-10"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Korinther1"
+        },
+        {
+          "Ref": "1.Korinther2"
+        },
+        {
+          "Ref": "1.Korinther3"
+        },
+        {
+          "Ref": "1.Korinther4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Korinther5"
+        },
+        {
+          "Ref": "1.Korinther6"
+        },
+        {
+          "Ref": "1.Korinther7"
+        },
+        {
+          "Ref": "1.Korinther8"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Korinther9"
+        },
+        {
+          "Ref": "1.Korinther10"
+        },
+        {
+          "Ref": "1.Korinther11"
+        },
+        {
+          "Ref": "1.Korinther12"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Korinther13"
+        },
+        {
+          "Ref": "1.Korinther14"
+        },
+        {
+          "Ref": "1.Korinther15"
+        },
+        {
+          "Ref": "1.Korinther16"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Apostelgeschichte19,11-40"
+        },
+        {
+          "Ref": "Apostelgeschichte20,1"
+        },
+        {
+          "Ref": "2.Korinther1"
+        },
+        {
+          "Ref": "2.Korinther2"
+        },
+        {
+          "Ref": "2.Korinther3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Korinther4"
+        },
+        {
+          "Ref": "2.Korinther5"
+        },
+        {
+          "Ref": "2.Korinther6"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Korinther7"
+        },
+        {
+          "Ref": "2.Korinther8"
+        },
+        {
+          "Ref": "2.Korinther9"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Korinther10"
+        },
+        {
+          "Ref": "2.Korinther11"
+        },
+        {
+          "Ref": "2.Korinther12"
+        },
+        {
+          "Ref": "2.Korinther13"
+        },
+        {
+          "Ref": "Apostelgeschichte20,2"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Römer1"
+        },
+        {
+          "Ref": "Römer2"
+        },
+        {
+          "Ref": "Römer3"
+        },
+        {
+          "Ref": "Römer4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Römer5"
+        },
+        {
+          "Ref": "Römer6"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Römer7"
+        },
+        {
+          "Ref": "Römer8"
+        },
+        {
+          "Ref": "Römer9"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Römer10"
+        },
+        {
+          "Ref": "Römer11"
+        },
+        {
+          "Ref": "Römer12"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Römer13"
+        },
+        {
+          "Ref": "Römer14"
+        },
+        {
+          "Ref": "Römer15"
+        },
+        {
+          "Ref": "Römer16"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Apostelgeschichte20,3-38"
+        },
+        {
+          "Ref": "Apostelgeschichte21"
+        },
+        {
+          "Ref": "Apostelgeschichte22"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Apostelgeschichte23"
+        },
+        {
+          "Ref": "Apostelgeschichte24"
+        },
+        {
+          "Ref": "Apostelgeschichte25"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Apostelgeschichte26"
+        },
+        {
+          "Ref": "Apostelgeschichte27"
+        },
+        {
+          "Ref": "Apostelgeschichte28"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Epheser1"
+        },
+        {
+          "Ref": "Epheser2"
+        },
+        {
+          "Ref": "Epheser3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Epheser4"
+        },
+        {
+          "Ref": "Epheser5"
+        },
+        {
+          "Ref": "Epheser6"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Philipper1"
+        },
+        {
+          "Ref": "Philipper2"
+        },
+        {
+          "Ref": "Philipper3"
+        },
+        {
+          "Ref": "Philipper4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Kolosser1"
+        },
+        {
+          "Ref": "Kolosser2"
+        },
+        {
+          "Ref": "Kolosser3"
+        },
+        {
+          "Ref": "Kolosser4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hebräer1"
+        },
+        {
+          "Ref": "Hebräer2"
+        },
+        {
+          "Ref": "Hebräer3"
+        },
+        {
+          "Ref": "Hebräer4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hebräer5"
+        },
+        {
+          "Ref": "Hebräer6"
+        },
+        {
+          "Ref": "Hebräer7"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hebräer8"
+        },
+        {
+          "Ref": "Hebräer9"
+        },
+        {
+          "Ref": "Hebräer10"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Hebräer11"
+        },
+        {
+          "Ref": "Hebräer12"
+        },
+        {
+          "Ref": "Hebräer13"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Philemon"
+        },
+        {
+          "Ref": "1.Petrus1"
+        },
+        {
+          "Ref": "1.Petrus2"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Petrus3"
+        },
+        {
+          "Ref": "1.Petrus4"
+        },
+        {
+          "Ref": "1.Petrus5"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Petrus1"
+        },
+        {
+          "Ref": "2.Petrus2"
+        },
+        {
+          "Ref": "2.Petrus3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Timotheus1"
+        },
+        {
+          "Ref": "1.Timotheus2"
+        },
+        {
+          "Ref": "1.Timotheus3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Timotheus4"
+        },
+        {
+          "Ref": "1.Timotheus5"
+        },
+        {
+          "Ref": "1.Timotheus6"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Titus1"
+        },
+        {
+          "Ref": "Titus2"
+        },
+        {
+          "Ref": "Titus3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Timotheus1"
+        },
+        {
+          "Ref": "2.Timotheus2"
+        },
+        {
+          "Ref": "2.Timotheus3"
+        },
+        {
+          "Ref": "2.Timotheus4"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Johannes1"
+        },
+        {
+          "Ref": "1.Johannes2"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "1.Johannes3"
+        },
+        {
+          "Ref": "1.Johannes4"
+        },
+        {
+          "Ref": "1.Johannes5"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "2.Johannes"
+        },
+        {
+          "Ref": "3.Johannes"
+        },
+        {
+          "Ref": "Judas"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Offenbarung1"
+        },
+        {
+          "Ref": "Offenbarung2"
+        },
+        {
+          "Ref": "Offenbarung3"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Offenbarung4"
+        },
+        {
+          "Ref": "Offenbarung5"
+        },
+        {
+          "Ref": "Offenbarung6"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Offenbarung7"
+        },
+        {
+          "Ref": "Offenbarung8"
+        },
+        {
+          "Ref": "Offenbarung9"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Offenbarung10"
+        },
+        {
+          "Ref": "Offenbarung11"
+        },
+        {
+          "Ref": "Offenbarung12"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Offenbarung13"
+        },
+        {
+          "Ref": "Offenbarung14"
+        },
+        {
+          "Ref": "Offenbarung15"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Offenbarung16"
+        },
+        {
+          "Ref": "Offenbarung17"
+        },
+        {
+          "Ref": "Offenbarung18"
+        }
+      ]
+    },
+    {
+      "Items": [
+        {
+          "Ref": "Offenbarung19"
+        },
+        {
+          "Ref": "Offenbarung20"
+        },
+        {
+          "Ref": "Offenbarung21"
+        },
+        {
+          "Ref": "Offenbarung22"
+        }
+      ]
+    }
+  ]
+}

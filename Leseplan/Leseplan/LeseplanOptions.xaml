@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Optionen"
+             x:Class="Leseplan.LeseplanOptions">
+    <!--<ContentPage.ToolbarItems>
+        <ToolbarItem Text="Speichern" Order="Primary" Priority="0" Command="{Binding Commands[Save]}" />
+    </ContentPage.ToolbarItems>-->
+
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="FillAndExpand">
+                <Label Text="Startdatum"
+                VerticalOptions="Center" 
+                HorizontalOptions="Start" />
+                <DatePicker Date="{Binding StartDate}" VerticalOptions="Center" HorizontalOptions="FillAndExpand" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="FillAndExpand">
+                <Label Text="Übersetzung"
+                VerticalOptions="Center" 
+                HorizontalOptions="Start" />
+                <Picker VerticalOptions="Center" HorizontalOptions="FillAndExpand" ItemsSource="{Binding Translations}" SelectedItem="{Binding Translation}" 
+                    ItemDisplayBinding="{Binding Text}" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
