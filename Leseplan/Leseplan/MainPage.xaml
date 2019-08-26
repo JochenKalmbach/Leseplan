@@ -39,28 +39,14 @@
                                 </Label.FormattedText>
                             </Label>
                         </StackLayout>
-                        <!--<Grid>
-                            <Grid.ColumnDefinitions>
-                                <ColumnDefinition />
-                                <ColumnDefinition />
-                            </Grid.ColumnDefinitions>
-                            <Switch Grid.Column="0" HorizontalOptions="Center" VerticalOptions="Center" IsToggled="{Binding Checked}" />
-                            <Label Grid.Column="1" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" >
-                                <Label.FormattedText>
-                                    <FormattedString>
-                                        <Span Text="{Binding Text}" TextColor="Blue" TextDecorations="Underline" >
-                                            <Span.GestureRecognizers>
-                                                <TapGestureRecognizer Command="{Binding Commands[Click]}" />
-                                            </Span.GestureRecognizers>
-                                        </Span>
-                                    </FormattedString>
-                                </Label.FormattedText>
-                            </Label>
-                        </Grid>-->
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
+        <StackLayout.GestureRecognizers>
+            <SwipeGestureRecognizer Direction="Left" Command="{Binding Commands[PrevDay]}" />
+            <SwipeGestureRecognizer Direction="Right" Command="{Binding Commands[NextDay]}" />
+        </StackLayout.GestureRecognizers>
     </StackLayout>
 
 </ContentPage>

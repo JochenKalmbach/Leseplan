@@ -42,9 +42,9 @@ namespace Leseplan
 
         public DateTime StartDate { get; set; } = DateTime.Now;
 
-        public string Translation { get; set; } = "LUT";
+        public string Translation { get; set; } = "B-DELUT";
 
-        public Dictionary<string, ItemReadData> ReadItems { get; set; } = new Dictionary<string, ItemReadData>(StringComparer.Ordinal);
+        public Dictionary<string, ItemReadData> ReadItems { get; } = new Dictionary<string, ItemReadData>(StringComparer.Ordinal);
     }
 
     public class ItemReadData

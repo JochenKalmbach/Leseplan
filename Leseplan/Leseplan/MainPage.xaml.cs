@@ -16,9 +16,22 @@ namespace Leseplan
 
 
             // Load Leseplan...
+            LeseplanVM lp;
+            LeseplanData lpd = ReadLeseplanData();
+            if (lpd != null)
+            {
+                lp = new LeseplanVM(lpd);
+            }
+            else
+            {
+                lp = new LeseplanVM();
+            }
 
-            LeseplanVM lp = null;
+            this.BindingContext = lp;
+        }
 
+        public static LeseplanData ReadLeseplanData()
+        {
             // Display names of embedded resources
             var assembly = typeof(MainPage).Assembly;
             foreach (var res in assembly.GetManifestResourceNames())
@@ -29,17 +42,10 @@ namespace Leseplan
                     var s = assembly.GetManifestResourceStream(res);
                     var sr = new StreamReader(s);
                     var lpd = LeseplanData.Load(sr.ReadToEnd());
-
-                    lp = new LeseplanVM(lpd);
+                    return lpd;
                 }
             }
-
-            if (lp == null)
-            {
-                lp = new LeseplanVM();
-            }
-
-            this.BindingContext = lp;
+            return null;
         }
     }
 
@@ -57,7 +63,32 @@ namespace Leseplan
         {
             _LeseplanData = lpd;
             LoadUserData();
-            AssignData(DateTime.Now.Date);
+
+            // Detect first non-checked entries... and calculate the correpsonding data
+            DateTime actDate = DateTime.Now.Date;
+            if (UserData != null)
+            {
+                actDate = UserData.StartDate.Date;
+                foreach (var e in _LeseplanData.Entries)
+                {
+                    bool brk = false;
+                    foreach(var i in e.Items)
+                    {
+                        if (!UserData.ReadItems.ContainsKey(i.Ref))
+                        {
+                            brk = true;
+                            break;
+                        }
+                    }
+                    if (brk)
+                    {
+                        break;
+                    }
+                    actDate = actDate.AddDays(1);
+                }
+            }
+
+            AssignData(actDate);
         }
 
         private LeseplanData _LeseplanData;
@@ -74,7 +105,7 @@ namespace Leseplan
                 day++;
             }
 
-            Date = actDate;
+            Date = actDate.Date;
         }
 
 
